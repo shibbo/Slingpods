@@ -1,0 +1,17 @@
+{
+  "Name": "Slingpods",
+  "Author": "shibboleet",
+  "Description": "SLINGPODS!!!!",
+
+  "ModuleData": [
+    {
+      "NameObjFactory": [
+        {
+          "Name": "SpaceCocoon",
+          "Function": "createExtActor<SpaceCocoon>",
+          "Include": "SpaceCocoon.h"
+        }
+      ]
+    }
+  ]
+}
